@@ -32,7 +32,7 @@ function Box4() {
       <div className="box4">
         <div className="box4_top">
           <div className="box4_left">
-            <img src="https://avatars.dicebear.com/api/miniavs/dushan.svg"></img>
+            <img src="https://avatars.dicebear.com/api/miniavs/dushan.svg" alt="not found 4"></img>
             <div className="box4_left_details">
               <div className="box4_name">Saurabh Mantri</div>
               <div className="box4_class">Class 4A</div>
@@ -52,11 +52,11 @@ function Box4() {
           <hr></hr>
           <div className="like_comment_box">
             <div className="like_options">
-              <img type="button" src="./like_button.png" onClick={addLike}></img>
+              <img type="button" src="./like_button.png" onClick={addLike} alt="not found"></img>
               <span>{likes}</span>
             </div>
             <div className="suggestions">
-              <img type="button" onClick={(e) => {setVisible(!visible)}} src="./suggestion.png"></img>
+              <img type="button" onClick={(e) => {setVisible(!visible)}} src="./suggestion.png" alt="not found"></img>
               <button
                 onClick={(e) => {
                   setVisible(!visible);
