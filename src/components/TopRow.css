@@ -1,0 +1,28 @@
+.today {
+  position: static;
+  width: 36px;
+  height: 16px;
+  left: 10px;
+  top: 2px;
+
+  /* text-xs/leading-4/font-medium */
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+
+  /* gray/800 */
+
+  color: #1f2937;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 2px 10px;
+}

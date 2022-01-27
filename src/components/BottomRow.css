@@ -1,0 +1,13 @@
+.yesterday {
+  /* text-xs/leading-4/font-medium */
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #1f2937;
+
+  /* Inside auto layout */
+  margin: 26px 0px 0px 10px;
+}
