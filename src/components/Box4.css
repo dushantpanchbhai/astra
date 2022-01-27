@@ -38,7 +38,7 @@
   flex-direction: column;
 }
 #down_left_1 {
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -68,7 +68,7 @@
 }
 
 .box4_right > span {
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -97,7 +97,7 @@
 
 .box4_name {
   background: none !important;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -106,7 +106,7 @@
 
 .box4_class {
   background: none !important;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   color: grey;
   font-weight: 600;
@@ -145,7 +145,7 @@ hr
 
 .like_options > span {
   margin-left: 4.33px;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -171,7 +171,7 @@ hr
 .suggestions > button {
     border: none;
   margin-left: 5.33px;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -194,7 +194,7 @@ hr
 
 .feedback_box > span {
   margin: 7px;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -226,7 +226,7 @@ hr
 
 #cancel {
   border: none;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -238,7 +238,7 @@ hr
 #submit {
   border: none;
   margin-left: 14px;
-  font-family: Inter;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 14px;

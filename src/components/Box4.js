@@ -32,7 +32,7 @@ function Box4() {
       <div className="box4">
         <div className="box4_top">
           <div className="box4_left">
-            <img src="https://avatars.dicebear.com/api/male/john.svg?mood[]=happy&mood[]=sad"></img>
+            <img src="https://avatars.dicebear.com/api/miniavs/dushan.svg"></img>
             <div className="box4_left_details">
               <div className="box4_name">Saurabh Mantri</div>
               <div className="box4_class">Class 4A</div>

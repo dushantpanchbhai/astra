@@ -5,7 +5,7 @@ function Box2() {
     <div className="box2">
       <div className="box2_top">
         <div className="box2_left">
-          <img src="https://avatars.dicebear.com/api/male/john.svg?mood[]=happy&mood[]=sad"></img>
+          <img src="https://avatars.dicebear.com/api/miniavs/dushan.svg"></img>
           <div className="box2_left_details">
             <div className="box2_name">Saurabh Mantri</div>
             <div className="box2_class">Class 4A</div>
